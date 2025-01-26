@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.example.loyalty_system",
+            "sha256_cert_fingerprints": [
+                "1B8AC2C632C8EFBA2AF4EC7D9D8FC73D6C3378D4AD812BEA5B4F764D02B59E7E"
+            ]
+        }
+    }
+]
