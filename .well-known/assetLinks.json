@@ -5,10 +5,9 @@
         ],
         "target": {
             "namespace": "android_app",
-            "package_name": "com.example.loyalty_system",
+            "package_name": "com.pp.gov.qa.LoyaltySystem",
             "sha256_cert_fingerprints": [
-              "BE:AE:94:6F:F0:17:18:CD:E3:11:24:93:C0:62:4B:E9:6E:42:B8:54:45:F7:AD:6F:E2:DD:69:42:34:8F:49:68", 
-        "1B:8A:C2:C6:32:C8:EF:BA:2A:F4:EC:7D:9D:8F:C7:3D:6C:33:78:D4:AD:81:2B:EA:5B:4F:76:4D:02:B5:9E:7E"
+                "FF:9C:38:EF:7F:87:35:9B:62:EA:13:72:CF:2B:9C:67:2F:6F:E8:B4:79:41:A0:40:A7:63:F2:D4:32:F7:CF:87"
             ]
         }
     }
